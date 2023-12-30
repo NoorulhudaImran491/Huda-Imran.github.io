@@ -1,0 +1,51 @@
+body{
+  font-family: Poppins, sans-serif;
+  background-color: rgb(30, 40, 68);
+}
+.main{
+  height: 100px;
+  padding: 80px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  text-align: center;
+  margin: 6px;
+  padding: 5px;
+}
+.name{
+  font-size: 44px;
+  color:cornflowerblue;
+  font-weight: 700;
+}
+.tagline{
+  color: whitesmoke;
+  font-size: large;
+  font-weight: 400;
+}
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 300px;
+}
+.bio{
+  color: black;
+  font-size: 40px;
+  font-weight: 600;
+  padding: 20px;
+}
+.section1{
+  color: black;
+  font-size: 20px;
+}
+.section3{
+   color: antiquewhite;
+   font-size:x-large;
+}
+.section4{
+  color: antiquewhite;
+}
+
+
